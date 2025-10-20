@@ -1,0 +1,2 @@
+# linestringkapuk
+Tugas GIS
